@@ -1,6 +1,6 @@
 <script>
-  let title = "Sveltaily"
-  let content = "Create svelte kit web applications faster!"
+  let title = "Clips9arm"
+  let content = "แพลตฟอร์มที่ไว้รวบรวมคลิปเด็ดนายอาร์ม"
 </script>
 
 <head>
